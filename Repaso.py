@@ -12,8 +12,7 @@ multiplicacion= numero1*numero2
 # Mostrar el resultado de la suma y resta
 
 
-
-
+#a ver si funciona
 
 
 
